@@ -30,7 +30,7 @@ The python script will acheive the following:
 
 
 # How To Run The project
-1.  Clone this repository to your local machine: `https://github.com/hananagohir/Python-Workshop-Project.git`
+1.  Clone this repository to your local machine: `git clone https://github.com/hananagohir/Python-Workshop-Project.git`
 
 2.  Change into the project directory: `cd Python-Workshop-Project`
 
