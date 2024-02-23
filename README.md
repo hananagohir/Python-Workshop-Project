@@ -30,13 +30,13 @@ The python script will acheive the following:
 
 
 # How To Run The project
-1. Clone this repository to your local machine: `git clone https://github.com/HananaG/image-to-text-to-speech.git`
+1.  Clone this repository to your local machine: `git clone https://github.com/HananaG/image-to-text-to-speech.git`
 
-2. Change into the project directory: `cd `
+2.  Change into the project directory: `cd `
 
-3. Install the required dependencies: `pip install pytesseract Pillow gTTS pygame`
+3.  Install the required dependencies: `pip install pytesseract Pillow gTTS pygame`
 
-4. Once the installation is complete, you can start the project: `python main.py`
+4.  Once the installation is complete, you can start the project: `python main.py`
 
 
 # Resources
