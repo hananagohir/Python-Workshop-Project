@@ -2,23 +2,16 @@
 The goal of this project is to convert any image-to-text-to-speech using python. 
 The python script will acheive the following:
 
-*Open the image
--Convert the image to string of text
--Convert text to speech
--Play the audio 
+* Open the image
+* Convert the image to string of text
+* Convert text to speech
+* Play the audio 
 
 
 
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+
 
  
-
-
-
 
 
 
