@@ -8,6 +8,10 @@ The python script will acheive the following:
 * Convert text to speech
 * Play the audio 
 
+## 1. File Structure
+
+- `src/components`: Contains UI components such as `Stopwatch.tsx`, `StopwatchButton.tsx`, and `DynamicBackground.tsx`.
+
 
 # Project GamePlan
 
