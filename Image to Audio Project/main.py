@@ -1,5 +1,5 @@
 
-import pytesseract # allows Python to interact with Tesseract (Optical Character Recognition engine)
+import pytesseract # allows Python to interact with Tesseract OCR (Optical Character Recognition engine)
 from PIL import Image # imports the Image class from Pillow for image processing 
 from gtts import gTTS # Google text-to-speech is used to convert text to audio
 import pygame # pygame used to load and play audio
