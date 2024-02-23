@@ -39,7 +39,7 @@ The python script will acheive the following:
 4. Once the installation is complete, you can start the project: `python main.py`
 
 
-#Resources
+# Resources
 
 * Pre-Workshop Setup Guide: https://docs.google.com/document/d/1qd3bcqlpon2JvGJ4xnouUP1h47I5KL6vzL-moPJT8XI/edit?usp=sharing
 
