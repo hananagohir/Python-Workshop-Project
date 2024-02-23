@@ -1,3 +1,4 @@
+[Screenshot 2023-09-25 195409-modified](https://github.com/hananagohir/hananagohir/blob/main/assets/73364515/0c1b7ad0-f855-42da-a71d-aa8e5a4477d3.png)
 # Project Overview
 
 The goal of this project is to convert any image to text, and then convert the extracted text to speech using python. 
