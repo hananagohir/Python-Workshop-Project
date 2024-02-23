@@ -1,3 +1,4 @@
+![Intro to Python](https://github.com/hananagohir/Python-Workshop-Project/raw/main/Intro%20to%20Python.png)
 
 # Project Overview
 
