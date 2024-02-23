@@ -36,7 +36,7 @@ The python script will acheive the following:
 
 3.  Install the required dependencies: `pip install pytesseract Pillow gTTS pygame`
 
-4.  Once the installation is complete, enter the project directory: `cd Image to Audio Project`
+4.  Once the installation is complete, enter the project file: `cd Image to Audio Project`
 
 5.  Now, you can start the project: `python main.py`
 
