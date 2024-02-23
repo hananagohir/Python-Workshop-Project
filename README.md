@@ -1,10 +1,8 @@
-# image_to_text_to_audio_project
-
 # Project Overview
 The goal of this project is to convert any image-to-text-to-speech using python. 
 The python script will acheive the following:
 
--Open the image
+*Open the image
 -Convert the image to string of text
 -Convert text to speech
 -Play the audio 
