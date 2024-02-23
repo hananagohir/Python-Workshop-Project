@@ -1,4 +1,4 @@
-[Screenshot 2023-09-25 195409-modified]("C:\Users\14379\Desktop\Intro to Python.png")
+
 # Project Overview
 
 The goal of this project is to convert any image to text, and then convert the extracted text to speech using python. 
