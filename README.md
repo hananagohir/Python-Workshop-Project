@@ -31,7 +31,7 @@ The python script will acheive the following:
 
 
 
-# How to run the project
+# How To Run The project
 1. Clone this repository to your local machine: git clone https://github.com/HananaG/image-to-text-to-speech.git
 
 2. Change into the project directory: cd 
@@ -45,4 +45,4 @@ The python script will acheive the following:
 
 * #Pre-Workshop Setup Guide:
 
-* #Presenation slides:
+* #Presenation slides: https://www.canva.com/design/DAF9eIRdj20/qSX62kM048HSsSldkjsF6g/view?utm_content=DAF9eIRdj20&utm_campaign=designshare&utm_medium=link&utm_source=editor
