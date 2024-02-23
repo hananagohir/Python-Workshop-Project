@@ -41,6 +41,6 @@ The python script will acheive the following:
 
 # Resources
 
-* Pre-Workshop Setup Guide: Pre-Workshop Environment Setup.pdf
+* Pre-Workshop Setup Guide: https://github.com/hananagohir/Python-Workshop-Project/blob/main/Pre-Workshop%20Environment%20Setup.pdf
 
 * Presenation slides: https://python-workshop-hananag.my.canva.site/
